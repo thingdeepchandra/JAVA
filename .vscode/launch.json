@@ -1,0 +1,1141 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "a_jframe",
+            "request": "launch",
+            "mainClass": "ZB_Swing.a_jframe",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_file_reader_bufferreader",
+            "request": "launch",
+            "mainClass": "ZA_File_IO.f_file_reader_bufferreader",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_file_read_filereader",
+            "request": "launch",
+            "mainClass": "ZA_File_IO.e_file_read_filereader",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_file_writer",
+            "request": "launch",
+            "mainClass": "ZA_File_IO.a_file_writer",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_file_create",
+            "request": "launch",
+            "mainClass": "ZA_File_IO.c_file_create",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "l_buffer_reader_string",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.l_buffer_reader_string",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "k_buffer_reader",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.k_buffer_reader",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "j_read_password",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.j_read_password",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "h_details_of_emp",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.h_details_of_emp",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "g_console_string",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.g_console_string",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_console_int",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.f_console_int",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_cuse_of_next_and_nextline",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.e_cuse_of_next_and_nextline",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_console_details_of_stu",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.d_console_details_of_stu",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_check_data_type",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.f_check_data_type",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_console_examople",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.b_console_examople",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_test",
+            "request": "launch",
+            "mainClass": "Z_Console_and_File_Input_n_Output.a_test",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "j_exception_user_defined_throws_product_weight",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.j_exception_user_defined_throws_product_weight",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "Myexception$i_exception_own",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.Myexception$i_exception_own",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_class_outside_main_class",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.d_class_outside_main_class",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_add_two_numbers",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.b_add_two_numbers",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_exception_handeling_solution",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.b_exception_handeling_solution",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_exception_array_null",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.c_exception_array_null",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_exception_problem_scenario",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.a_exception_problem_scenario",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "h_exception_throw_throws_voter",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.h_exception_throw_throws_voter",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "g_exception_throws_divide",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.g_exception_throws_divide",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_exception_throw_voter",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.f_exception_throw_voter",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_exception_finally",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.e_exception_finally",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_exception_array",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.d_exception_array",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_exception_array",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.c_exception_array",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_exception_array",
+            "request": "launch",
+            "mainClass": "X_Access_Specifiers.c_exception_array",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_exception_handeling_solution",
+            "request": "launch",
+            "mainClass": "Y_Exception_Handeling.a_exception_handeling_solution",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_access_specifiers",
+            "request": "launch",
+            "mainClass": "X_Access_Specifiers.a_access_specifiers",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_abstract_bank_roi",
+            "request": "launch",
+            "mainClass": "W_Abstraction.b_abstract_bank_roi",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "Dad$a_abstract",
+            "request": "launch",
+            "mainClass": "W_Abstraction.Dad$a_abstract",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_interface_noninterface",
+            "request": "launch",
+            "mainClass": "V_Interfaces.c_interface_noninterface",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_interface_emp_info",
+            "request": "launch",
+            "mainClass": "V_Interfaces.d_interface_emp_info",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_interface_multiple_interface",
+            "request": "launch",
+            "mainClass": "V_Interfaces.b_interface_multiple_interface",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_interface",
+            "request": "launch",
+            "mainClass": "V_Interfaces.a_interface",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_final_method",
+            "request": "launch",
+            "mainClass": "U_Final_Keyword.c_final_method",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_final_class",
+            "request": "launch",
+            "mainClass": "U_Final_Keyword.b_final_class",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_final_varaible",
+            "request": "launch",
+            "mainClass": "U_Final_Keyword.a_final_varaible",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_method_overriding",
+            "request": "launch",
+            "mainClass": "T_Polymorphism.Method_Overriding.b_method_overriding",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_method_overriding",
+            "request": "launch",
+            "mainClass": "T_Polymorphism.Method_Overriding.a_method_overriding",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_method_overloading_diff_sequence_of_para",
+            "request": "launch",
+            "mainClass": "T_Polymorphism.Method_Overloading.c_method_overloading_diff_sequence_of_para",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_method_overloading_diff_data_types",
+            "request": "launch",
+            "mainClass": "T_Polymorphism.Method_Overloading.b_method_overloading_diff_data_types",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_method_overloading_diff_no_of_param",
+            "request": "launch",
+            "mainClass": "T_Polymorphism.Method_Overloading.a_method_overloading_diff_no_of_param",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "g_multiple_problem",
+            "request": "launch",
+            "mainClass": "S_Inheritance.g_multiple_problem",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_method_overriding",
+            "request": "launch",
+            "mainClass": "S_Inheritance.f_method_overriding",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_accessing_parent_method",
+            "request": "launch",
+            "mainClass": "S_Inheritance.e_accessing_parent_method",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_single_same_method",
+            "request": "launch",
+            "mainClass": "S_Inheritance.d_single_same_method",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_hierarchical",
+            "request": "launch",
+            "mainClass": "S_Inheritance.c_hierarchical",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_multilevel",
+            "request": "launch",
+            "mainClass": "S_Inheritance.b_multilevel",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_single",
+            "request": "launch",
+            "mainClass": "S_Inheritance.a_single",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_example_without_using_variable_lengh_args",
+            "request": "launch",
+            "mainClass": "R_Variable_Length_Arguments.a_example_without_using_variable_lengh_args",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_non_static_nested_or_inner_class",
+            "request": "launch",
+            "mainClass": "Q_Nested_N_Inner_Classes.b_non_static_nested_or_inner_class",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_static_nested_class",
+            "request": "launch",
+            "mainClass": "Q_Nested_N_Inner_Classes.a_static_nested_class",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_ststic_methods",
+            "request": "launch",
+            "mainClass": "P_Static_Fields_Methods.c_ststic_methods",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_static_methods",
+            "request": "launch",
+            "mainClass": "P_Static_Fields_Methods.b_static_methods",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_static_fields",
+            "request": "launch",
+            "mainClass": "P_Static_Fields_Methods.a_static_fields",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_copy_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.f_copy_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_parameterized_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.e_parameterized_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_parameterized_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.d_parameterized_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_default_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.c_default_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_default_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.b_default_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_default_constructor",
+            "request": "launch",
+            "mainClass": "M_Constructors.a_default_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_command_line_argument",
+            "request": "launch",
+            "mainClass": "I_Command_Line_Arguments.a_command_line_argument",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "i_this_current_instance_variable_reference",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.i_this_current_instance_variable_reference",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "h_this_return_current_class_instance",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.h_this_return_current_class_instance",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "g_this_pass_an_argument_constructor_call",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.g_this_pass_an_argument_constructor_call",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_this_current_class_constructor",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.e_this_current_class_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_this_pass_an_argument_method_call",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.f_this_pass_an_argument_method_call",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_this_current_class_constructor",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.d_this_current_class_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_this_current_class_constructor",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.c_this_current_class_constructor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_this_current_class_mrhod",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.b_this_current_class_mrhod",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_this",
+            "request": "launch",
+            "mainClass": "O_This_Keyword.a_this",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_garbage_collection",
+            "request": "launch",
+            "mainClass": "N_Garbaage_Collection.a_garbage_collection",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_constant_static",
+            "request": "launch",
+            "mainClass": "H_Variables_Constants.c_constant_static",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_constants_final",
+            "request": "launch",
+            "mainClass": "H_Variables_Constants.b_constants_final",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_string_literals",
+            "request": "launch",
+            "mainClass": "G_Literals.e_string_literals",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_backslash_char_escape_operation",
+            "request": "launch",
+            "mainClass": "G_Literals.d_backslash_char_escape_operation",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_single_line_comment",
+            "request": "launch",
+            "mainClass": "G_Literals.c_single_line_comment",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_cahracter_escape_sequence",
+            "request": "launch",
+            "mainClass": "G_Literals.b_cahracter_escape_sequence",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_hex_octal_binary",
+            "request": "launch",
+            "mainClass": "G_Literals.a_hex_octal_binary",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_double_to_int",
+            "request": "launch",
+            "mainClass": "F_Type_Casting.b_double_to_int",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_int_into_double",
+            "request": "launch",
+            "mainClass": "F_Type_Casting.a_int_into_double",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "l_array_single_dim_string",
+            "request": "launch",
+            "mainClass": "l_array_single_dim_string",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "j_array_jagged",
+            "request": "launch",
+            "mainClass": "j_array_jagged",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "i_array_two_dim_accessing_all_elements",
+            "request": "launch",
+            "mainClass": "i_array_two_dim_accessing_all_elements",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "h_array_two_dim_accessing_single_element",
+            "request": "launch",
+            "mainClass": "h_array_two_dim_accessing_single_element",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "g_single_sum_of_element",
+            "request": "launch",
+            "mainClass": "g_single_sum_of_element",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "f_array_single_foreach",
+            "request": "launch",
+            "mainClass": "f_array_single_foreach",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "e_short",
+            "request": "launch",
+            "mainClass": "E_Data_Types.e_short",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_byte",
+            "request": "launch",
+            "mainClass": "E_Data_Types.d_byte",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "c_char",
+            "request": "launch",
+            "mainClass": "E_Data_Types.c_char",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_char",
+            "request": "launch",
+            "mainClass": "E_Data_Types.b_char",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_boolean",
+            "request": "launch",
+            "mainClass": "E_Data_Types.a_boolean",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "h_bitwise_xor",
+            "request": "launch",
+            "mainClass": "D_Operators.c_Bitwise_Operator.h_bitwise_xor",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "logical_not",
+            "request": "launch",
+            "mainClass": "D_Operators.d_Logical_Operator.logical_not",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "b_relational",
+            "request": "launch",
+            "mainClass": "D_Operators.e_Relational_Operator.b_relational",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_relational",
+            "request": "launch",
+            "mainClass": "D_Operators.e_Relational_Operator.a_relational",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_assignment",
+            "request": "launch",
+            "mainClass": "D_Operators.b_Assignment_Operator.a_assignment",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_arithmetic",
+            "request": "launch",
+            "mainClass": "D_Operators.a_Arithmetic_Operator.a_arithmetic",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_int_weekday",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.c_Switch.a_int_weekday",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "d_do_while_loop",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.b_loop.d_do_while_loop",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "k_volume_of_a_cuboid",
+            "request": "launch",
+            "mainClass": "k_volume_of_a_cuboid",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "a_hellonepal",
+            "request": "launch",
+            "mainClass": "a_hellonepal",
+            "projectName": "STC_JAVA_c4d14acb"
+        },
+        {
+            "type": "java",
+            "name": "decrement_n_increment",
+            "request": "launch",
+            "mainClass": "D_Operators.f_Increment_and_Decrement_Operator.decrement_n_increment",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "decrement_n_increment",
+            "request": "launch",
+            "mainClass": "decrement_n_increment",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_relational",
+            "request": "launch",
+            "mainClass": "D_Operators.e_Relational_Operator.a_relational",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_relational",
+            "request": "launch",
+            "mainClass": "a_relational",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "decrement",
+            "request": "launch",
+            "mainClass": "D_Operators.decrement",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "h_bitwise_xor",
+            "request": "launch",
+            "mainClass": "D_Operators.h_bitwise_xor",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "h_logical_xor",
+            "request": "launch",
+            "mainClass": "D_Operators.h_logical_xor",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "g_bitwise_or",
+            "request": "launch",
+            "mainClass": "D_Operators.g_bitwise_or",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "f_logical_and",
+            "request": "launch",
+            "mainClass": "D_Operators.f_logical_and",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "e_logical_not",
+            "request": "launch",
+            "mainClass": "D_Operators.e_logical_not",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_logical_and_or_types_of_triangle_sides",
+            "request": "launch",
+            "mainClass": "D_Operators.d_logical_and_or_types_of_triangle_sides",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "a_hellonepal",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.a_hellonepal",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_add_two_numbers",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.b_add_two_numbers",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "c_operators",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.c_operators",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_class_outside_main_class",
+            "request": "launch",
+            "mainClass": "B_Basic_IO_Class_n_Object.d_class_outside_main_class",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_if",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.a_if",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_nested_if",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.b_nested_if",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "c_if_else",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.c_if_else",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_odd_n_even",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.d_odd_n_even",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "e_char_male_female",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.e_char_male_female",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "f_greatest_among_three_num",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.f_greatest_among_three_num",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "g_result_of_stu",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.g_result_of_stu",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "h_nested_if_else",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.a_if_block.h_nested_if_else",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_for_loop",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.b_loop.a_for_loop",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_while_loop",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.b_loop.b_while_loop",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_do_while_loop",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.b_loop.d_do_while_loop",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_int_weekday",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.c_Switch.a_int_weekday",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_char_abberevatin",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.c_Switch.b_char_abberevatin",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "c_char_operator_arithmetic",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.c_Switch.c_char_operator_arithmetic",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_ternary",
+            "request": "launch",
+            "mainClass": "C_Control_Statement.d_Others.a_ternary",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_arithmetic",
+            "request": "launch",
+            "mainClass": "D_Operators.a_arithmetic",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_assignment",
+            "request": "launch",
+            "mainClass": "D_Operators.b_assignment",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "c_logical_AND_greatest_among_three_numbs",
+            "request": "launch",
+            "mainClass": "D_Operators.c_logical_AND_greatest_among_three_numbs",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_logical_AND_OR_types_of_triangle_side",
+            "request": "launch",
+            "mainClass": "D_Operators.d_logical_AND_OR_types_of_triangle_side",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "a_hellonepal(1)",
+            "request": "launch",
+            "mainClass": "a_hellonepal",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "b_operator",
+            "request": "launch",
+            "mainClass": "b_operator",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "c_area_of_rectaingle",
+            "request": "launch",
+            "mainClass": "c_area_of_rectaingle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "d_area_of_traingle",
+            "request": "launch",
+            "mainClass": "d_area_of_traingle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "e_simple_interest",
+            "request": "launch",
+            "mainClass": "e_simple_interest",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "f_compound_interest",
+            "request": "launch",
+            "mainClass": "f_compound_interest",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "g_types_of_traingle",
+            "request": "launch",
+            "mainClass": "g_types_of_traingle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "h_area_of_square",
+            "request": "launch",
+            "mainClass": "h_area_of_square",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "i_area_of_cube",
+            "request": "launch",
+            "mainClass": "i_area_of_cube",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "k_volume_of_a_cuboid",
+            "request": "launch",
+            "mainClass": "k_volume_of_a_cuboid",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "l_volume_of_cube",
+            "request": "launch",
+            "mainClass": "l_volume_of_cube",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "m_area_of_circle",
+            "request": "launch",
+            "mainClass": "m_area_of_circle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "n_convert_age_into_days",
+            "request": "launch",
+            "mainClass": "n_convert_age_into_days",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "o_area_of_rectangle",
+            "request": "launch",
+            "mainClass": "o_area_of_rectangle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "p_perimeter_of_a_rectangle",
+            "request": "launch",
+            "mainClass": "p_perimeter_of_a_rectangle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "q_operators",
+            "request": "launch",
+            "mainClass": "q_operators",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "r_volume_of_sphere",
+            "request": "launch",
+            "mainClass": "r_volume_of_sphere",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "s_conver_celsius_int_fahrenheit",
+            "request": "launch",
+            "mainClass": "s_conver_celsius_int_fahrenheit",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "t_area_of_triangle",
+            "request": "launch",
+            "mainClass": "t_area_of_triangle",
+            "projectName": "STC_JAVA_34173a79"
+        },
+        {
+            "type": "java",
+            "name": "u_swap_two_numbers",
+            "request": "launch",
+            "mainClass": "u_swap_two_numbers",
+            "projectName": "STC_JAVA_34173a79"
+        }
+    ]
+}
